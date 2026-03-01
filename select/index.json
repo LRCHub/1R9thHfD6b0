@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Ruler",
+  "base_artist": "岸田教団&THE明星ロケッツ",
+  "createdAt": "2026-03-01T18:16:16.532672Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Auditorium (feat.The Ruler)",
+      "artist": "Mos Def",
+      "has_synced": false,
+      "path": "select/01_Auditorium_(feat.The_Ruler)_Mos_Def.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ruler",
+      "artist": "Marnie Stern",
+      "has_synced": false,
+      "path": "select/02_Ruler_Marnie_Stern.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Father Ruler King Computer",
+      "artist": "Echobelly",
+      "has_synced": true,
+      "path": "select/03_Father_Ruler_King_Computer_Echobelly.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ruler Mr. H.",
+      "artist": "Grave Digger",
+      "has_synced": true,
+      "path": "select/04_Ruler_Mr._H._Grave_Digger.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ruler Of My Heart",
+      "artist": "Nina Hagen",
+      "has_synced": true,
+      "path": "select/05_Ruler_Of_My_Heart_Nina_Hagen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ruler of Everything",
+      "artist": "Tally Hall",
+      "has_synced": true,
+      "path": "select/06_Ruler_of_Everything_Tally_Hall.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ruler of My Heart",
+      "artist": "Linda Ronstadt",
+      "has_synced": false,
+      "path": "select/07_Ruler_of_My_Heart_Linda_Ronstadt.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ruler Of My Heart",
+      "artist": "Irma Thomas",
+      "has_synced": true,
+      "path": "select/08_Ruler_Of_My_Heart_Irma_Thomas.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ruler of My Heart",
+      "artist": "Norah Jones",
+      "has_synced": true,
+      "path": "select/09_Ruler_of_My_Heart_Norah_Jones.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ruler Of My Heart (With Dirty Dozen Brass Band)",
+      "artist": "Norah Jones",
+      "has_synced": true,
+      "path": "select/10_Ruler_Of_My_Heart_(With_Dirty_Dozen_Brass_Band)_Norah_Jones.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Man a King Ruler",
+      "artist": "U.D.O.",
+      "has_synced": true,
+      "path": "select/11_Man_a_King_Ruler_U.D.O..lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ruler of the Wasteland",
+      "artist": "Chastain",
+      "has_synced": true,
+      "path": "select/12_Ruler_of_the_Wasteland_Chastain.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Ruler",
+      "artist": "Kreayshawn",
+      "has_synced": true,
+      "path": "select/13_The_Ruler_Kreayshawn.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Ruler (Album Version)",
+      "artist": "Kreayshawn",
+      "has_synced": false,
+      "path": "select/14_The_Ruler_(Album_Version)_Kreayshawn.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Who Is The Ruler?",
+      "artist": "Alpha&Omega",
+      "has_synced": false,
+      "path": "select/15_Who_Is_The_Ruler_Alpha&Omega.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ruler",
+      "artist": "岸田教団 & THE 明星ロケッツ",
+      "has_synced": false,
+      "path": "select/pl_01_Ruler_岸田教団_&_THE_明星ロケッツ.txt"
+    }
+  ]
+}
